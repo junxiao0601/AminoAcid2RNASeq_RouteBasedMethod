@@ -8,7 +8,7 @@ Hi,
    These codes are to convertan  amino acid sequence (alphabet sequence) to a list of possible RNA sequence(s) coding that amino acid sequence.
 
 
-**How to Use**: Run the code in either Main.py or AminoAcid2RNASeq.py
+**How to Use**: Download the whole folder and run the code in either Main.py or AminoAcid2RNASeq.py in the downloaded folder.
    *Stop = "*" in the sequence
 
    *These codes output a list of possible RNA sequence(s) in a csv.
