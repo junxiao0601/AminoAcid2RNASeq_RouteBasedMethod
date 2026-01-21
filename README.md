@@ -11,7 +11,7 @@ Hi,
 **How to Use**: Run the code in either Main.py or AminoAcid2RNASeq.py
    *Stop = "*" in the sequence
 
-   These codes output a list of possible RNA sequence(s) in a csv.
+   *These codes output a list of possible RNA sequence(s) in a csv.
    *Evaluation: "correctness" = whether the output RNA sequence can return the input amino acid sequence.
 
 
